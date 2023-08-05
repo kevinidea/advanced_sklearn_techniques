@@ -1,0 +1,17 @@
+# Random files
+.idea/
+__pycache__/
+*/__pycache__/
+.DS_Store
+
+# Excel
+.xlsx
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# static files in some sub-folder
+data
+
+# log of the running webserver in the background
+nohup.out
